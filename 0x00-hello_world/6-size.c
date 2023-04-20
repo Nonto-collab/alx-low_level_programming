@@ -1,7 +1,8 @@
 #include <studio.h>
 /**
 * main – a C program that prints the size of various types on the computer
-* Return: 0 
+* Return: Always 0 
+* 
 */
 int main(void)
 {
